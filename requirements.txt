@@ -1,5 +1,5 @@
 streamlit
 pandas
 matplotlib
-LinearRegression
+scikit-learn
 numpy
